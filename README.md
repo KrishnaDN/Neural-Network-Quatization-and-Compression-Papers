@@ -1,4 +1,4 @@
-# Deep Neural network model compression papers
+# Deep Neural network model compression and quatization papers
 ## This repo will give all the papers for quatization and compressions methods for neural networks and short video explanation of the each paper
 
 ### Before 2013</h3>

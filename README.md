@@ -1,6 +1,7 @@
 # Deep Neural network model compression papers
 <h2>This repo will give all the papers for quatization and compressions methods for neural networks and short video explanation of the each paper.</h2>
 
+<span style="color: green"> Some green text </span>
 <h3>Before 2013</h3>
      <h4> 1. Weight quantization in boltzmann machines</h4>
       <h4>2. Multilayer feedforward neural networks with single powers-of-two weights.</h4>

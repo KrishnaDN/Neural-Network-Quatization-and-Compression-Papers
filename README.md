@@ -81,4 +81,4 @@
    ##### 6. Training and inference with integers in deep neural networks.[\[Paper\]](https://arxiv.org/pdf/1802.04680.pdf)
    ##### 7. Adaptive quantization of neural networks.[\[Paper\]](https://openreview.net/pdf?id=SyOK1Sg0W)
 
-### A Huge Thanks to Yunhui Guo(https://yunhuiguo.github.io/) for his paper on survey of neural network quantization. Check out his paper https://arxiv.org/pdf/1808.04752.pdf. some of the content is taken from this paper
+#### A Huge Thanks to Yunhui Guo(https://yunhuiguo.github.io/) for his paper on survey of neural network quantization. Check out his paper https://arxiv.org/pdf/1808.04752.pdf.

@@ -2,7 +2,7 @@
 <h2>This repo will give all the papers for quatization and compressions methods for neural networks and short video explanation of the each paper.</h2>
 
 <h3>Before 2013</h3>
-     <h4> 1. Weight quantization in boltzmann machines[\[PDF\]](https://arxiv.org/pdf/1807.00898.pdf)</h4>
+     ### 1. Weight quantization in boltzmann machines[\[PDF\]](https://arxiv.org/pdf/1807.00898.pdf)
       <h4>2. Multilayer feedforward neural networks with single powers-of-two weights.</h4>
       <h4>3. Hardware Accelerated Convolutional Neural Networks for Synthetic Vision Systems A vlsi architecture for high    performance, low-cost, on-chip learning</h4>
       <h4>4. An artificial neural network accelerator using general purpose 24 bit floating point digital signal processors</h4>
